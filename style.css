@@ -1,0 +1,22 @@
+.heading{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: xx-large;
+}
+.start-button{
+    text-align: center;
+}
+.start{
+    text-align: center;
+    padding:15px;
+    color: white;
+    background-color:rgb(5, 74, 202);
+    font-size: xx-large;
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.start:hover{
+    background-color: rgb(61, 123, 238);
+}
